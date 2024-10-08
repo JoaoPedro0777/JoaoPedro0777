@@ -28,10 +28,10 @@ I invite you to call me through my contacts at the end of this Overview and find
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_pedro.qm)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Palmelino)
 
-![João Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedro0777&show_icons=true&theme=dracula)
+![João Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedro0777&show_icons=true&theme=dracula)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro0777&layout=compact&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro0777&layout=compact&show_icons=true&theme=dracula)
 <!--<img align="right" alt="m0unt" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHV1NXVvYWFxbWxnYzJvY2pzNWtjZDR1NWlidmRxOGp1cWQ0cWltdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQVsxKZ1qxfu97vqKi/giphy.gif">-->
 
 ## Technologies
