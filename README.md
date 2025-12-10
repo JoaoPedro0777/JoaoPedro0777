@@ -1,27 +1,6 @@
 ## Meu nome é João Pedro de Queiroz.
 
 ### 👨🎓 Sistema de Informação - Instituto Federal Goiano Campus Urutaí.
-
-Atualmente busco aprendizado na área de banco de dados e desenvolvimento back-end, mas gosto de conhecer o mais extenso campo de Tecnologia, desde infra em máquina até em nuvem, segurança, e programação, seja pra dispositivos móveis, ou para desktop e WEB.
-Sou bastante empenhado, se me der uma missão/atividade que eu não saiba, vou buscar aprender como faze-la, se depois de várias tentativas e falhas busco pessoas dentro da equipe no qual eu estou inserida para tentar encerrar o desafio proposto.
-
-Convido a me chamarem através dos meus contatos no final deste Overview e descobrir o que este jovem pode oferecer para sua empresa/negócio
-
---------
-
-### US
-
--------
-
-## My name is João Pedro de Queiroz.
-
-### 👨🎓 Information System - Instituto Federal Goiano Campus Urutaí.
-
-I am currently looking to learn in the area of database and back-end development, but I like to know the most extensive field of Technology, from Infra on a server machine to the cloud, security, and programming, whether for mobile devices, or for desktop and WEB .
-I'm quite committed, if you give me a mission/activity that I don't know about, I'll try to learn how to do it, if after several attempts and failures I look for people within the team in which I'm inserted to try to close the proposed challenge.
-
-I invite you to call me through my contacts at the end of this Overview and find out what this young man can offer for your company/business
-
 -------
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedromartinsdev)
